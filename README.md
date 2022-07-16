@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP, deep learning**
 
-- 👯 I’m looking to collaborate on **My research about GAN networks**
+- 👯 I’m looking to collaborate on **Open source web developement projects**
 
 - 🤝 I’m looking for help with **Full stack open source projects**
 
