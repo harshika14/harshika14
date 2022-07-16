@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/dashboard)
 
-- 💬 Ask me about **Java, Python, React, Php, Full stack, UI/UX designinge**
+- 💬 Ask me about **Java, Python, React, Php, Full stack, UI/UX designing**
 
 - 📫 How to reach me **harshikashrivastav14@gmail.com**
 
