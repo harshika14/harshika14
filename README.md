@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshika</h1>
 <h3 align="center">A passionate developer and Data Science Enthusiast from Bay Area</h3>
-
+<h2 align="center"> Founder of DecoFern <a href="https://decofern.com/>DecoFern.com</a></h3>
 - 🔭 I’m currently working on **Research work in deep learning**
 
 - 🌱 I’m currently learning **NLP, deep learning**
